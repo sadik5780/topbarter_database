@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "iphones",
+  "info": {
+    "singularName": "iphone",
+    "pluralName": "iphones",
+    "displayName": "iphone"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "sdsdsd": {
+      "type": "string"
+    }
+  }
+}
